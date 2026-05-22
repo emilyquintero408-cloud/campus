@@ -1,4 +1,4 @@
-# 🗺️ Buscador de Rutas del Campus
+#Buscador de Rutas del Campus
 
 > Proyecto final – Estructuras de Datos  
 > Problema 1: Buscador de rutas del campus
