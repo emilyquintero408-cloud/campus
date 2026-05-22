@@ -7,8 +7,8 @@
 
 | Nombre | Rol |
 |--------|-----|
-| [emily quintero rivera] | Desarrollador / Documentador |
-| [sofia hidalgo cordoba] | Desarrollador / Documentador |
+| Emily Quintero Rivera | Desarrollador / Documentador |
+| Sofia Hidalgo Cordoba | Desarrollador / Documentador |
 
 ---
 
