@@ -1,0 +1,37 @@
+# ============================================================
+# Campus Universitario Ficticio – Archivo de datos
+# Formato:
+#   UBICACION NombreLugar
+#   RUTA Origen;Destino;Metros
+# ============================================================
+
+# ── Ubicaciones ─────────────────────────────────────────────
+UBICACION Entrada Principal
+UBICACION Biblioteca
+UBICACION Bloque A - Aulas
+UBICACION Bloque B - Laboratorios
+UBICACION Bloque C - Administrativo
+UBICACION Cafetería Central
+UBICACION Cancha Deportiva
+UBICACION Parqueadero
+UBICACION Auditorio
+UBICACION Bienestar Universitario
+UBICACION Sala de Sistemas
+
+# ── Rutas (metros) ──────────────────────────────────────────
+RUTA Entrada Principal;Parqueadero;80
+RUTA Entrada Principal;Bloque C - Administrativo;120
+RUTA Entrada Principal;Biblioteca;200
+RUTA Biblioteca;Bloque A - Aulas;90
+RUTA Biblioteca;Cafetería Central;110
+RUTA Bloque A - Aulas;Bloque B - Laboratorios;60
+RUTA Bloque A - Aulas;Cafetería Central;150
+RUTA Bloque A - Aulas;Sala de Sistemas;70
+RUTA Bloque B - Laboratorios;Sala de Sistemas;50
+RUTA Bloque B - Laboratorios;Auditorio;130
+RUTA Bloque C - Administrativo;Bienestar Universitario;95
+RUTA Bloque C - Administrativo;Cafetería Central;180
+RUTA Cafetería Central;Cancha Deportiva;160
+RUTA Cafetería Central;Bienestar Universitario;100
+RUTA Auditorio;Bienestar Universitario;140
+RUTA Cancha Deportiva;Parqueadero;220
