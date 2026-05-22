@@ -7,8 +7,8 @@
 
 | Nombre | Rol |
 |--------|-----|
-| [Tu nombre aquí] | Desarrollador / Documentador |
-| [Nombre compañero] | Desarrollador / Documentador |
+| [emily quintero rivera] | Desarrollador / Documentador |
+| [sofia hidalgo cordoba] | Desarrollador / Documentador |
 
 ---
 
